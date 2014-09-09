@@ -1,7 +1,7 @@
 zcm
 ===
 
-Basic Cmake set.
+Basic Cmake set, 2014 09 09
 
 This file is a very minimal base for a project based around Cmake / make / gcc.
 Add any number of .c and .h files, making sure to update the following:
