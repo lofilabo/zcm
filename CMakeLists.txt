@@ -13,7 +13,7 @@ SET(SRCS
 )
 
 add_executable(rhello ${SRCS} ${HDRS})
-target_link_libraries(rhello m ncurses readline)
+target_link_libraries(rhello m ncurses)
 
 #add_subdirectory(test)
 
